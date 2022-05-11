@@ -1,0 +1,5672 @@
+{
+    "case_00000": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 62
+        },
+        "kidney": {
+            "min_x": 69,
+            "min_y": 137,
+            "min_z": 0,
+            "max_x": 174,
+            "max_y": 179,
+            "max_z": 62,
+            "area": 31963,
+            "slice": 62
+        },
+        "tumor": {
+            "min_x": 82,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 95,
+            "max_y": 168,
+            "max_z": 57,
+            "area": 4274,
+            "slice": 52
+        }
+    },
+    "case_00001": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 116
+        },
+        "kidney": {
+            "min_x": 46,
+            "min_y": 106,
+            "min_z": 0,
+            "max_x": 206,
+            "max_y": 167,
+            "max_z": 116,
+            "area": 224787,
+            "slice": 116
+        },
+        "tumor": {
+            "min_x": 50,
+            "min_y": 125,
+            "min_z": 5,
+            "max_x": 75,
+            "max_y": 155,
+            "max_z": 111,
+            "area": 4393,
+            "slice": 70
+        }
+    },
+    "case_00002": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 50
+        },
+        "kidney": {
+            "min_x": 69,
+            "min_y": 154,
+            "min_z": 0,
+            "max_x": 183,
+            "max_y": 201,
+            "max_z": 50,
+            "area": 37238,
+            "slice": 50
+        },
+        "tumor": {
+            "min_x": 159,
+            "min_y": 175,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 197,
+            "max_z": 45,
+            "area": 9358,
+            "slice": 40
+        }
+    },
+    "case_00003": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 35
+        },
+        "kidney": {
+            "min_x": 68,
+            "min_y": 116,
+            "min_z": 0,
+            "max_x": 189,
+            "max_y": 170,
+            "max_z": 35,
+            "area": 51307,
+            "slice": 35
+        },
+        "tumor": {
+            "min_x": 68,
+            "min_y": 128,
+            "min_z": 5,
+            "max_x": 86,
+            "max_y": 144,
+            "max_z": 30,
+            "area": 2964,
+            "slice": 25
+        }
+    },
+    "case_00004": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 70,
+            "min_y": 132,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 164,
+            "max_z": 18,
+            "area": 13800,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 181,
+            "min_y": 137,
+            "min_z": 5,
+            "max_x": 197,
+            "max_y": 155,
+            "max_z": 13,
+            "area": 1239,
+            "slice": 8
+        }
+    },
+    "case_00005": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 126
+        },
+        "kidney": {
+            "min_x": 128,
+            "min_y": 128,
+            "min_z": 0,
+            "max_x": 216,
+            "max_y": 173,
+            "max_z": 126,
+            "area": 136161,
+            "slice": 126
+        },
+        "tumor": {
+            "min_x": 191,
+            "min_y": 133,
+            "min_z": 5,
+            "max_x": 216,
+            "max_y": 158,
+            "max_z": 121,
+            "area": 30828,
+            "slice": 116
+        }
+    },
+    "case_00006": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 52,
+            "min_y": 136,
+            "min_z": 0,
+            "max_x": 205,
+            "max_y": 186,
+            "max_z": 18,
+            "area": 36854,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 148,
+            "min_y": 141,
+            "min_z": 5,
+            "max_x": 167,
+            "max_y": 161,
+            "max_z": 13,
+            "area": 1213,
+            "slice": 8
+        }
+    },
+    "case_00007": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 172,
+            "max_z": 19,
+            "area": 35729,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 58,
+            "min_y": 128,
+            "min_z": 5,
+            "max_x": 76,
+            "max_y": 147,
+            "max_z": 14,
+            "area": 1495,
+            "slice": 9
+        }
+    },
+    "case_00008": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 41
+        },
+        "kidney": {
+            "min_x": 56,
+            "min_y": 82,
+            "min_z": 4,
+            "max_x": 210,
+            "max_y": 171,
+            "max_z": 41,
+            "area": 42673,
+            "slice": 37
+        },
+        "tumor": {
+            "min_x": 56,
+            "min_y": 96,
+            "min_z": 5,
+            "max_x": 118,
+            "max_y": 171,
+            "max_z": 36,
+            "area": 60835,
+            "slice": 31
+        }
+    },
+    "case_00009": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 75,
+            "min_y": 144,
+            "min_z": 2,
+            "max_x": 182,
+            "max_y": 180,
+            "max_z": 18,
+            "area": 11776,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 143,
+            "min_y": 165,
+            "min_z": 5,
+            "max_x": 162,
+            "max_y": 180,
+            "max_z": 13,
+            "area": 1002,
+            "slice": 8
+        }
+    },
+    "case_00010": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 72,
+            "min_y": 125,
+            "min_z": 4,
+            "max_x": 190,
+            "max_y": 176,
+            "max_z": 17,
+            "area": 17361,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 145,
+            "min_y": 133,
+            "min_z": 5,
+            "max_x": 165,
+            "max_y": 155,
+            "max_z": 12,
+            "area": 1620,
+            "slice": 7
+        }
+    },
+    "case_00011": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 67,
+            "min_y": 114,
+            "min_z": 3,
+            "max_x": 215,
+            "max_y": 182,
+            "max_z": 16,
+            "area": 23178,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 178,
+            "min_y": 141,
+            "min_z": 5,
+            "max_x": 215,
+            "max_y": 175,
+            "max_z": 11,
+            "area": 3700,
+            "slice": 6
+        }
+    },
+    "case_00012": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 73,
+            "min_y": 110,
+            "min_z": 0,
+            "max_x": 209,
+            "max_y": 180,
+            "max_z": 21,
+            "area": 19480,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 143,
+            "min_y": 110,
+            "min_z": 5,
+            "max_x": 209,
+            "max_y": 163,
+            "max_z": 16,
+            "area": 16291,
+            "slice": 11
+        }
+    },
+    "case_00013": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 20
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 135,
+            "min_z": 0,
+            "max_x": 189,
+            "max_y": 193,
+            "max_z": 18,
+            "area": 27181,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 62,
+            "min_y": 141,
+            "min_z": 5,
+            "max_x": 93,
+            "max_y": 173,
+            "max_z": 15,
+            "area": 4489,
+            "slice": 10
+        }
+    },
+    "case_00014": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 25
+        },
+        "kidney": {
+            "min_x": 83,
+            "min_y": 129,
+            "min_z": 0,
+            "max_x": 189,
+            "max_y": 172,
+            "max_z": 25,
+            "area": 37384,
+            "slice": 25
+        },
+        "tumor": {
+            "min_x": 85,
+            "min_y": 142,
+            "min_z": 5,
+            "max_x": 97,
+            "max_y": 155,
+            "max_z": 20,
+            "area": 1089,
+            "slice": 15
+        }
+    },
+    "case_00015": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 55,
+            "min_y": 131,
+            "min_z": 0,
+            "max_x": 208,
+            "max_y": 195,
+            "max_z": 15,
+            "area": 30376,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 160,
+            "min_y": 131,
+            "min_z": 5,
+            "max_x": 180,
+            "max_y": 155,
+            "max_z": 13,
+            "area": 2008,
+            "slice": 8
+        }
+    },
+    "case_00016": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 122,
+            "min_z": 0,
+            "max_x": 214,
+            "max_y": 175,
+            "max_z": 21,
+            "area": 45250,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 183,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 214,
+            "max_y": 169,
+            "max_z": 16,
+            "area": 6551,
+            "slice": 11
+        }
+    },
+    "case_00017": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 50,
+            "min_y": 109,
+            "min_z": 0,
+            "max_x": 200,
+            "max_y": 180,
+            "max_z": 12,
+            "area": 23345,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 52,
+            "min_y": 158,
+            "min_z": 5,
+            "max_x": 72,
+            "max_y": 173,
+            "max_z": 8,
+            "area": 416,
+            "slice": 3
+        }
+    },
+    "case_00018": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 110,
+            "min_z": 0,
+            "max_x": 191,
+            "max_y": 166,
+            "max_z": 23,
+            "area": 31209,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 79,
+            "min_y": 148,
+            "min_z": 5,
+            "max_x": 98,
+            "max_y": 166,
+            "max_z": 18,
+            "area": 1968,
+            "slice": 13
+        }
+    },
+    "case_00019": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 126,
+            "min_z": 0,
+            "max_x": 193,
+            "max_y": 165,
+            "max_z": 14,
+            "area": 22088,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 168,
+            "min_y": 128,
+            "min_z": 5,
+            "max_x": 177,
+            "max_y": 136,
+            "max_z": 9,
+            "area": 137,
+            "slice": 4
+        }
+    },
+    "case_00020": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 140,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 181,
+            "max_z": 13,
+            "area": 16905,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 155,
+            "min_y": 151,
+            "min_z": 5,
+            "max_x": 166,
+            "max_y": 166,
+            "max_z": 8,
+            "area": 150,
+            "slice": 3
+        }
+    },
+    "case_00021": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 72,
+            "min_y": 115,
+            "min_z": 5,
+            "max_x": 195,
+            "max_y": 168,
+            "max_z": 14,
+            "area": 11441,
+            "slice": 9
+        },
+        "tumor": {
+            "min_x": 154,
+            "min_y": 122,
+            "min_z": 5,
+            "max_x": 178,
+            "max_y": 142,
+            "max_z": 9,
+            "area": 1287,
+            "slice": 4
+        }
+    },
+    "case_00022": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 50
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 103,
+            "min_z": 0,
+            "max_x": 189,
+            "max_y": 148,
+            "max_z": 48,
+            "area": 36801,
+            "slice": 48
+        },
+        "tumor": {
+            "min_x": 88,
+            "min_y": 114,
+            "min_z": 5,
+            "max_x": 104,
+            "max_y": 128,
+            "max_z": 45,
+            "area": 3559,
+            "slice": 40
+        }
+    },
+    "case_00023": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 137,
+            "min_z": 0,
+            "max_x": 200,
+            "max_y": 184,
+            "max_z": 15,
+            "area": 31751,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 74,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 84,
+            "max_y": 163,
+            "max_z": 10,
+            "area": 202,
+            "slice": 5
+        }
+    },
+    "case_00024": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 54,
+            "min_y": 99,
+            "min_z": 0,
+            "max_x": 200,
+            "max_y": 179,
+            "max_z": 13,
+            "area": 21338,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 60,
+            "min_y": 99,
+            "min_z": 5,
+            "max_x": 105,
+            "max_y": 142,
+            "max_z": 13,
+            "area": 8562,
+            "slice": 8
+        }
+    },
+    "case_00025": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 42
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 115,
+            "min_z": 5,
+            "max_x": 220,
+            "max_y": 189,
+            "max_z": 42,
+            "area": 47384,
+            "slice": 37
+        },
+        "tumor": {
+            "min_x": 150,
+            "min_y": 116,
+            "min_z": 5,
+            "max_x": 220,
+            "max_y": 189,
+            "max_z": 37,
+            "area": 71880,
+            "slice": 32
+        }
+    },
+    "case_00026": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 42
+        },
+        "kidney": {
+            "min_x": 50,
+            "min_y": 95,
+            "min_z": 0,
+            "max_x": 206,
+            "max_y": 167,
+            "max_z": 37,
+            "area": 68653,
+            "slice": 37
+        },
+        "tumor": {
+            "min_x": 49,
+            "min_y": 99,
+            "min_z": 5,
+            "max_x": 92,
+            "max_y": 147,
+            "max_z": 37,
+            "area": 26029,
+            "slice": 32
+        }
+    },
+    "case_00027": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 52
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 132,
+            "min_z": 0,
+            "max_x": 186,
+            "max_y": 177,
+            "max_z": 52,
+            "area": 84876,
+            "slice": 52
+        },
+        "tumor": {
+            "min_x": 59,
+            "min_y": 142,
+            "min_z": 5,
+            "max_x": 70,
+            "max_y": 153,
+            "max_z": 47,
+            "area": 2017,
+            "slice": 42
+        }
+    },
+    "case_00028": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 36,
+            "min_y": 133,
+            "min_z": 5,
+            "max_x": 201,
+            "max_y": 199,
+            "max_z": 26,
+            "area": 22329,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 36,
+            "min_y": 144,
+            "min_z": 5,
+            "max_x": 105,
+            "max_y": 199,
+            "max_z": 21,
+            "area": 16546,
+            "slice": 16
+        }
+    },
+    "case_00029": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 75,
+            "min_y": 128,
+            "min_z": 0,
+            "max_x": 207,
+            "max_y": 177,
+            "max_z": 12,
+            "area": 11596,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 171,
+            "min_y": 128,
+            "min_z": 5,
+            "max_x": 207,
+            "max_y": 166,
+            "max_z": 12,
+            "area": 5398,
+            "slice": 7
+        }
+    },
+    "case_00030": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 56,
+            "min_y": 77,
+            "min_z": 3,
+            "max_x": 228,
+            "max_y": 180,
+            "max_z": 26,
+            "area": 14041,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 128,
+            "min_y": 79,
+            "min_z": 3,
+            "max_x": 228,
+            "max_y": 180,
+            "max_z": 26,
+            "area": 99724,
+            "slice": 23
+        }
+    },
+    "case_00031": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 45,
+            "min_y": 118,
+            "min_z": 0,
+            "max_x": 212,
+            "max_y": 190,
+            "max_z": 13,
+            "area": 31303,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 163,
+            "min_y": 155,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 174,
+            "max_z": 10,
+            "area": 886,
+            "slice": 5
+        }
+    },
+    "case_00032": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 74,
+            "min_y": 128,
+            "min_z": 0,
+            "max_x": 184,
+            "max_y": 171,
+            "max_z": 19,
+            "area": 22469,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 90,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 106,
+            "max_y": 171,
+            "max_z": 14,
+            "area": 1145,
+            "slice": 9
+        }
+    },
+    "case_00033": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 36
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 122,
+            "min_z": 0,
+            "max_x": 198,
+            "max_y": 166,
+            "max_z": 36,
+            "area": 46695,
+            "slice": 36
+        },
+        "tumor": {
+            "min_x": 85,
+            "min_y": 131,
+            "min_z": 5,
+            "max_x": 101,
+            "max_y": 147,
+            "max_z": 31,
+            "area": 2038,
+            "slice": 26
+        }
+    },
+    "case_00034": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 105,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 160,
+            "max_z": 15,
+            "area": 29015,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 52,
+            "min_y": 120,
+            "min_z": 5,
+            "max_x": 80,
+            "max_y": 147,
+            "max_z": 12,
+            "area": 2599,
+            "slice": 7
+        }
+    },
+    "case_00035": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 69,
+            "min_y": 137,
+            "min_z": 0,
+            "max_x": 207,
+            "max_y": 179,
+            "max_z": 17,
+            "area": 22441,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 166,
+            "min_y": 159,
+            "min_z": 5,
+            "max_x": 186,
+            "max_y": 178,
+            "max_z": 12,
+            "area": 1241,
+            "slice": 7
+        }
+    },
+    "case_00036": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 57,
+            "min_y": 135,
+            "min_z": 0,
+            "max_x": 206,
+            "max_y": 192,
+            "max_z": 27,
+            "area": 53054,
+            "slice": 27
+        },
+        "tumor": {
+            "min_x": 151,
+            "min_y": 153,
+            "min_z": 5,
+            "max_x": 186,
+            "max_y": 185,
+            "max_z": 23,
+            "area": 7785,
+            "slice": 18
+        }
+    },
+    "case_00037": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 29
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 102,
+            "min_z": 0,
+            "max_x": 209,
+            "max_y": 163,
+            "max_z": 24,
+            "area": 24997,
+            "slice": 24
+        },
+        "tumor": {
+            "min_x": 154,
+            "min_y": 102,
+            "min_z": 5,
+            "max_x": 209,
+            "max_y": 155,
+            "max_z": 24,
+            "area": 21854,
+            "slice": 19
+        }
+    },
+    "case_00038": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 46,
+            "min_y": 111,
+            "min_z": 0,
+            "max_x": 202,
+            "max_y": 171,
+            "max_z": 14,
+            "area": 24825,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 57,
+            "min_y": 120,
+            "min_z": 5,
+            "max_x": 90,
+            "max_y": 157,
+            "max_z": 13,
+            "area": 4791,
+            "slice": 8
+        }
+    },
+    "case_00039": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 48,
+            "min_y": 108,
+            "min_z": 0,
+            "max_x": 191,
+            "max_y": 176,
+            "max_z": 14,
+            "area": 21211,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 153,
+            "min_y": 122,
+            "min_z": 5,
+            "max_x": 170,
+            "max_y": 137,
+            "max_z": 10,
+            "area": 647,
+            "slice": 5
+        }
+    },
+    "case_00040": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 20
+        },
+        "kidney": {
+            "min_x": 146,
+            "min_y": 129,
+            "min_z": 0,
+            "max_x": 192,
+            "max_y": 167,
+            "max_z": 20,
+            "area": 17543,
+            "slice": 20
+        },
+        "tumor": {
+            "min_x": 146,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 161,
+            "max_y": 147,
+            "max_z": 15,
+            "area": 1017,
+            "slice": 10
+        }
+    },
+    "case_00041": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 22
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 122,
+            "min_z": 4,
+            "max_x": 201,
+            "max_y": 178,
+            "max_z": 22,
+            "area": 27420,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 64,
+            "min_y": 144,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 170,
+            "max_z": 17,
+            "area": 4393,
+            "slice": 12
+        }
+    },
+    "case_00042": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 135
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 85,
+            "min_z": 0,
+            "max_x": 223,
+            "max_y": 189,
+            "max_z": 130,
+            "area": 102501,
+            "slice": 130
+        },
+        "tumor": {
+            "min_x": 139,
+            "min_y": 85,
+            "min_z": 5,
+            "max_x": 223,
+            "max_y": 169,
+            "max_z": 130,
+            "area": 408887,
+            "slice": 125
+        }
+    },
+    "case_00043": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 68,
+            "min_y": 119,
+            "min_z": 0,
+            "max_x": 192,
+            "max_y": 163,
+            "max_z": 11,
+            "area": 5361,
+            "slice": 11
+        },
+        "tumor": {
+            "min_x": 75,
+            "min_y": 119,
+            "min_z": 5,
+            "max_x": 93,
+            "max_y": 141,
+            "max_z": 11,
+            "area": 1176,
+            "slice": 6
+        }
+    },
+    "case_00044": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 67,
+            "min_y": 129,
+            "min_z": 2,
+            "max_x": 207,
+            "max_y": 175,
+            "max_z": 23,
+            "area": 25756,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 168,
+            "min_y": 137,
+            "min_z": 5,
+            "max_x": 207,
+            "max_y": 170,
+            "max_z": 18,
+            "area": 6905,
+            "slice": 13
+        }
+    },
+    "case_00045": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 56,
+            "min_y": 121,
+            "min_z": 0,
+            "max_x": 185,
+            "max_y": 180,
+            "max_z": 23,
+            "area": 22711,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 149,
+            "min_y": 121,
+            "min_z": 5,
+            "max_x": 185,
+            "max_y": 160,
+            "max_z": 18,
+            "area": 7145,
+            "slice": 13
+        }
+    },
+    "case_00046": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 125,
+            "min_z": 0,
+            "max_x": 186,
+            "max_y": 169,
+            "max_z": 26,
+            "area": 20827,
+            "slice": 26
+        },
+        "tumor": {
+            "min_x": 161,
+            "min_y": 146,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 169,
+            "max_z": 21,
+            "area": 3632,
+            "slice": 16
+        }
+    },
+    "case_00047": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 24
+        },
+        "kidney": {
+            "min_x": 59,
+            "min_y": 114,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 179,
+            "max_z": 19,
+            "area": 20821,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 59,
+            "min_y": 128,
+            "min_z": 5,
+            "max_x": 104,
+            "max_y": 172,
+            "max_z": 19,
+            "area": 8968,
+            "slice": 14
+        }
+    },
+    "case_00048": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 84,
+            "min_y": 105,
+            "min_z": 0,
+            "max_x": 184,
+            "max_y": 158,
+            "max_z": 19,
+            "area": 20717,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 164,
+            "min_y": 125,
+            "min_z": 5,
+            "max_x": 184,
+            "max_y": 145,
+            "max_z": 14,
+            "area": 1664,
+            "slice": 9
+        }
+    },
+    "case_00049": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 56
+        },
+        "kidney": {
+            "min_x": 59,
+            "min_y": 116,
+            "min_z": 0,
+            "max_x": 204,
+            "max_y": 166,
+            "max_z": 56,
+            "area": 103634,
+            "slice": 56
+        },
+        "tumor": {
+            "min_x": 77,
+            "min_y": 122,
+            "min_z": 5,
+            "max_x": 94,
+            "max_y": 136,
+            "max_z": 51,
+            "area": 4113,
+            "slice": 46
+        }
+    },
+    "case_00050": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 141,
+            "min_z": 3,
+            "max_x": 197,
+            "max_y": 183,
+            "max_z": 13,
+            "area": 16912,
+            "slice": 10
+        },
+        "tumor": {
+            "min_x": 96,
+            "min_y": 147,
+            "min_z": 5,
+            "max_x": 110,
+            "max_y": 162,
+            "max_z": 8,
+            "area": 340,
+            "slice": 3
+        }
+    },
+    "case_00051": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 66,
+            "min_y": 146,
+            "min_z": 0,
+            "max_x": 195,
+            "max_y": 190,
+            "max_z": 28,
+            "area": 35172,
+            "slice": 28
+        },
+        "tumor": {
+            "min_x": 73,
+            "min_y": 150,
+            "min_z": 5,
+            "max_x": 102,
+            "max_y": 176,
+            "max_z": 23,
+            "area": 4785,
+            "slice": 18
+        }
+    },
+    "case_00052": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 66
+        },
+        "kidney": {
+            "min_x": 66,
+            "min_y": 122,
+            "min_z": 0,
+            "max_x": 186,
+            "max_y": 155,
+            "max_z": 66,
+            "area": 75463,
+            "slice": 66
+        },
+        "tumor": {
+            "min_x": 93,
+            "min_y": 123,
+            "min_z": 5,
+            "max_x": 111,
+            "max_y": 142,
+            "max_z": 61,
+            "area": 8308,
+            "slice": 56
+        }
+    },
+    "case_00053": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 78
+        },
+        "kidney": {
+            "min_x": 70,
+            "min_y": 127,
+            "min_z": 0,
+            "max_x": 214,
+            "max_y": 178,
+            "max_z": 78,
+            "area": 143313,
+            "slice": 78
+        },
+        "tumor": {
+            "min_x": 184,
+            "min_y": 127,
+            "min_z": 5,
+            "max_x": 214,
+            "max_y": 155,
+            "max_z": 73,
+            "area": 26563,
+            "slice": 68
+        }
+    },
+    "case_00054": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 61,
+            "min_y": 116,
+            "min_z": 0,
+            "max_x": 192,
+            "max_y": 157,
+            "max_z": 15,
+            "area": 16878,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 64,
+            "min_y": 136,
+            "min_z": 5,
+            "max_x": 77,
+            "max_y": 149,
+            "max_z": 10,
+            "area": 418,
+            "slice": 5
+        }
+    },
+    "case_00055": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 31
+        },
+        "kidney": {
+            "min_x": 51,
+            "min_y": 128,
+            "min_z": 5,
+            "max_x": 196,
+            "max_y": 190,
+            "max_z": 31,
+            "area": 20644,
+            "slice": 26
+        },
+        "tumor": {
+            "min_x": 51,
+            "min_y": 136,
+            "min_z": 5,
+            "max_x": 107,
+            "max_y": 188,
+            "max_z": 26,
+            "area": 28088,
+            "slice": 21
+        }
+    },
+    "case_00056": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 27
+        },
+        "kidney": {
+            "min_x": 41,
+            "min_y": 98,
+            "min_z": 1,
+            "max_x": 202,
+            "max_y": 177,
+            "max_z": 27,
+            "area": 35758,
+            "slice": 26
+        },
+        "tumor": {
+            "min_x": 41,
+            "min_y": 98,
+            "min_z": 5,
+            "max_x": 116,
+            "max_y": 173,
+            "max_z": 22,
+            "area": 46550,
+            "slice": 17
+        }
+    },
+    "case_00057": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 56,
+            "min_y": 97,
+            "min_z": 0,
+            "max_x": 205,
+            "max_y": 149,
+            "max_z": 26,
+            "area": 30491,
+            "slice": 26
+        },
+        "tumor": {
+            "min_x": 57,
+            "min_y": 97,
+            "min_z": 5,
+            "max_x": 98,
+            "max_y": 142,
+            "max_z": 21,
+            "area": 11297,
+            "slice": 16
+        }
+    },
+    "case_00058": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 109,
+            "min_z": 0,
+            "max_x": 200,
+            "max_y": 166,
+            "max_z": 19,
+            "area": 29605,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 67,
+            "min_y": 109,
+            "min_z": 5,
+            "max_x": 102,
+            "max_y": 136,
+            "max_z": 14,
+            "area": 4512,
+            "slice": 9
+        }
+    },
+    "case_00059": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 59
+        },
+        "kidney": {
+            "min_x": 141,
+            "min_y": 142,
+            "min_z": 1,
+            "max_x": 182,
+            "max_y": 179,
+            "max_z": 59,
+            "area": 27518,
+            "slice": 58
+        },
+        "tumor": {
+            "min_x": 147,
+            "min_y": 144,
+            "min_z": 5,
+            "max_x": 169,
+            "max_y": 174,
+            "max_z": 54,
+            "area": 10669,
+            "slice": 49
+        }
+    },
+    "case_00060": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 20
+        },
+        "kidney": {
+            "min_x": 74,
+            "min_y": 108,
+            "min_z": 0,
+            "max_x": 194,
+            "max_y": 165,
+            "max_z": 15,
+            "area": 17499,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 75,
+            "min_y": 127,
+            "min_z": 5,
+            "max_x": 104,
+            "max_y": 153,
+            "max_z": 15,
+            "area": 3863,
+            "slice": 10
+        }
+    },
+    "case_00061": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 56,
+            "min_y": 104,
+            "min_z": 0,
+            "max_x": 194,
+            "max_y": 161,
+            "max_z": 18,
+            "area": 24545,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 56,
+            "min_y": 117,
+            "min_z": 5,
+            "max_x": 92,
+            "max_y": 153,
+            "max_z": 17,
+            "area": 5611,
+            "slice": 12
+        }
+    },
+    "case_00062": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 77,
+            "min_y": 146,
+            "min_z": 0,
+            "max_x": 191,
+            "max_y": 191,
+            "max_z": 15,
+            "area": 20347,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 149,
+            "min_y": 152,
+            "min_z": 5,
+            "max_x": 161,
+            "max_y": 163,
+            "max_z": 10,
+            "area": 247,
+            "slice": 5
+        }
+    },
+    "case_00063": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 57
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 198,
+            "max_y": 170,
+            "max_z": 57,
+            "area": 102859,
+            "slice": 57
+        },
+        "tumor": {
+            "min_x": 77,
+            "min_y": 143,
+            "min_z": 5,
+            "max_x": 91,
+            "max_y": 158,
+            "max_z": 52,
+            "area": 3492,
+            "slice": 47
+        }
+    },
+    "case_00064": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 67,
+            "min_y": 132,
+            "min_z": 0,
+            "max_x": 202,
+            "max_y": 173,
+            "max_z": 13,
+            "area": 19936,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 177,
+            "min_y": 151,
+            "min_z": 5,
+            "max_x": 199,
+            "max_y": 169,
+            "max_z": 9,
+            "area": 712,
+            "slice": 4
+        }
+    },
+    "case_00065": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 47,
+            "min_y": 125,
+            "min_z": 0,
+            "max_x": 208,
+            "max_y": 176,
+            "max_z": 17,
+            "area": 35440,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 53,
+            "min_y": 157,
+            "min_z": 5,
+            "max_x": 72,
+            "max_y": 175,
+            "max_z": 12,
+            "area": 1002,
+            "slice": 7
+        }
+    },
+    "case_00066": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 44
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 126,
+            "min_z": 0,
+            "max_x": 194,
+            "max_y": 175,
+            "max_z": 44,
+            "area": 57149,
+            "slice": 44
+        },
+        "tumor": {
+            "min_x": 64,
+            "min_y": 149,
+            "min_z": 5,
+            "max_x": 95,
+            "max_y": 173,
+            "max_z": 39,
+            "area": 12004,
+            "slice": 34
+        }
+    },
+    "case_00067": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 109
+        },
+        "kidney": {
+            "min_x": 61,
+            "min_y": 76,
+            "min_z": 0,
+            "max_x": 214,
+            "max_y": 183,
+            "max_z": 104,
+            "area": 57134,
+            "slice": 104
+        },
+        "tumor": {
+            "min_x": 130,
+            "min_y": 76,
+            "min_z": 5,
+            "max_x": 214,
+            "max_y": 166,
+            "max_z": 104,
+            "area": 352928,
+            "slice": 99
+        }
+    },
+    "case_00068": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 55
+        },
+        "kidney": {
+            "min_x": 52,
+            "min_y": 113,
+            "min_z": 0,
+            "max_x": 207,
+            "max_y": 182,
+            "max_z": 55,
+            "area": 92160,
+            "slice": 55
+        },
+        "tumor": {
+            "min_x": 178,
+            "min_y": 124,
+            "min_z": 5,
+            "max_x": 206,
+            "max_y": 149,
+            "max_z": 50,
+            "area": 13549,
+            "slice": 45
+        }
+    },
+    "case_00069": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 59,
+            "min_y": 115,
+            "min_z": 5,
+            "max_x": 214,
+            "max_y": 189,
+            "max_z": 16,
+            "area": 31239,
+            "slice": 11
+        },
+        "tumor": {
+            "min_x": 81,
+            "min_y": 143,
+            "min_z": 5,
+            "max_x": 115,
+            "max_y": 187,
+            "max_z": 11,
+            "area": 3695,
+            "slice": 6
+        }
+    },
+    "case_00070": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 31,
+            "min_y": 111,
+            "min_z": 3,
+            "max_x": 218,
+            "max_y": 183,
+            "max_z": 24,
+            "area": 29566,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 35,
+            "min_y": 115,
+            "min_z": 5,
+            "max_x": 104,
+            "max_y": 183,
+            "max_z": 21,
+            "area": 30649,
+            "slice": 16
+        }
+    },
+    "case_00071": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 55
+        },
+        "kidney": {
+            "min_x": 72,
+            "min_y": 153,
+            "min_z": 0,
+            "max_x": 203,
+            "max_y": 195,
+            "max_z": 55,
+            "area": 116573,
+            "slice": 55
+        },
+        "tumor": {
+            "min_x": 168,
+            "min_y": 172,
+            "min_z": 5,
+            "max_x": 188,
+            "max_y": 191,
+            "max_z": 50,
+            "area": 6812,
+            "slice": 45
+        }
+    },
+    "case_00072": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 54,
+            "min_y": 134,
+            "min_z": 0,
+            "max_x": 193,
+            "max_y": 192,
+            "max_z": 13,
+            "area": 17157,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 57,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 69,
+            "max_y": 166,
+            "max_z": 9,
+            "area": 267,
+            "slice": 4
+        }
+    },
+    "case_00073": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 30
+        },
+        "kidney": {
+            "min_x": 69,
+            "min_y": 87,
+            "min_z": 0,
+            "max_x": 206,
+            "max_y": 167,
+            "max_z": 25,
+            "area": 27866,
+            "slice": 25
+        },
+        "tumor": {
+            "min_x": 148,
+            "min_y": 87,
+            "min_z": 5,
+            "max_x": 206,
+            "max_y": 149,
+            "max_z": 25,
+            "area": 25502,
+            "slice": 20
+        }
+    },
+    "case_00074": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 42,
+            "min_y": 142,
+            "min_z": 0,
+            "max_x": 216,
+            "max_y": 191,
+            "max_z": 11,
+            "area": 19373,
+            "slice": 11
+        },
+        "tumor": {
+            "min_x": 69,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 96,
+            "max_y": 185,
+            "max_z": 10,
+            "area": 1706,
+            "slice": 5
+        }
+    },
+    "case_00075": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 60,
+            "min_y": 129,
+            "min_z": 0,
+            "max_x": 190,
+            "max_y": 177,
+            "max_z": 10,
+            "area": 14481,
+            "slice": 10
+        },
+        "tumor": {
+            "min_x": 165,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 181,
+            "max_y": 141,
+            "max_z": 9,
+            "area": 370,
+            "slice": 4
+        }
+    },
+    "case_00076": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 12
+        },
+        "kidney": {
+            "min_x": 51,
+            "min_y": 106,
+            "min_z": 0,
+            "max_x": 203,
+            "max_y": 165,
+            "max_z": 12,
+            "area": 22143,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 51,
+            "min_y": 136,
+            "min_z": 5,
+            "max_x": 67,
+            "max_y": 151,
+            "max_z": 7,
+            "area": 293,
+            "slice": 2
+        }
+    },
+    "case_00077": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 114,
+            "min_z": 0,
+            "max_x": 202,
+            "max_y": 173,
+            "max_z": 13,
+            "area": 18234,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 164,
+            "min_y": 157,
+            "min_z": 5,
+            "max_x": 182,
+            "max_y": 173,
+            "max_z": 8,
+            "area": 445,
+            "slice": 3
+        }
+    },
+    "case_00078": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 137
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 110,
+            "min_z": 0,
+            "max_x": 212,
+            "max_y": 193,
+            "max_z": 137,
+            "area": 162871,
+            "slice": 137
+        },
+        "tumor": {
+            "min_x": 146,
+            "min_y": 123,
+            "min_z": 5,
+            "max_x": 212,
+            "max_y": 193,
+            "max_z": 132,
+            "area": 186173,
+            "slice": 127
+        }
+    },
+    "case_00079": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 22
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 104,
+            "min_z": 5,
+            "max_x": 233,
+            "max_y": 178,
+            "max_z": 21,
+            "area": 20974,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 162,
+            "min_y": 104,
+            "min_z": 5,
+            "max_x": 233,
+            "max_y": 178,
+            "max_z": 17,
+            "area": 30147,
+            "slice": 12
+        }
+    },
+    "case_00080": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 152,
+            "min_z": 3,
+            "max_x": 193,
+            "max_y": 215,
+            "max_z": 17,
+            "area": 24593,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 159,
+            "min_y": 185,
+            "min_z": 5,
+            "max_x": 187,
+            "max_y": 215,
+            "max_z": 12,
+            "area": 2735,
+            "slice": 7
+        }
+    },
+    "case_00081": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 88,
+            "min_y": 128,
+            "min_z": 2,
+            "max_x": 195,
+            "max_y": 162,
+            "max_z": 16,
+            "area": 8200,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 159,
+            "min_y": 131,
+            "min_z": 5,
+            "max_x": 173,
+            "max_y": 143,
+            "max_z": 11,
+            "area": 463,
+            "slice": 6
+        }
+    },
+    "case_00082": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 74,
+            "min_y": 132,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 171,
+            "max_z": 16,
+            "area": 7059,
+            "slice": 11
+        },
+        "tumor": {
+            "min_x": 142,
+            "min_y": 155,
+            "min_z": 5,
+            "max_x": 156,
+            "max_y": 168,
+            "max_z": 11,
+            "area": 621,
+            "slice": 6
+        }
+    },
+    "case_00083": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 22
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 107,
+            "min_z": 0,
+            "max_x": 196,
+            "max_y": 166,
+            "max_z": 22,
+            "area": 37149,
+            "slice": 22
+        },
+        "tumor": {
+            "min_x": 75,
+            "min_y": 152,
+            "min_z": 5,
+            "max_x": 90,
+            "max_y": 166,
+            "max_z": 17,
+            "area": 1207,
+            "slice": 12
+        }
+    },
+    "case_00084": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 43
+        },
+        "kidney": {
+            "min_x": 65,
+            "min_y": 134,
+            "min_z": 4,
+            "max_x": 195,
+            "max_y": 188,
+            "max_z": 43,
+            "area": 42875,
+            "slice": 39
+        },
+        "tumor": {
+            "min_x": 79,
+            "min_y": 160,
+            "min_z": 5,
+            "max_x": 112,
+            "max_y": 188,
+            "max_z": 38,
+            "area": 12587,
+            "slice": 33
+        }
+    },
+    "case_00085": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 61,
+            "min_y": 118,
+            "min_z": 0,
+            "max_x": 198,
+            "max_y": 174,
+            "max_z": 14,
+            "area": 20786,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 78,
+            "min_y": 151,
+            "min_z": 5,
+            "max_x": 93,
+            "max_y": 167,
+            "max_z": 9,
+            "area": 484,
+            "slice": 4
+        }
+    },
+    "case_00086": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 47,
+            "min_y": 147,
+            "min_z": 0,
+            "max_x": 209,
+            "max_y": 197,
+            "max_z": 23,
+            "area": 51301,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 187,
+            "min_y": 158,
+            "min_z": 5,
+            "max_x": 209,
+            "max_y": 184,
+            "max_z": 18,
+            "area": 3039,
+            "slice": 13
+        }
+    },
+    "case_00087": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 52,
+            "min_y": 130,
+            "min_z": 4,
+            "max_x": 211,
+            "max_y": 193,
+            "max_z": 16,
+            "area": 29982,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 67,
+            "min_y": 136,
+            "min_z": 5,
+            "max_x": 98,
+            "max_y": 167,
+            "max_z": 11,
+            "area": 2973,
+            "slice": 6
+        }
+    },
+    "case_00088": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 65,
+            "min_y": 108,
+            "min_z": 5,
+            "max_x": 223,
+            "max_y": 204,
+            "max_z": 19,
+            "area": 16778,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 138,
+            "min_y": 108,
+            "min_z": 5,
+            "max_x": 223,
+            "max_y": 204,
+            "max_z": 16,
+            "area": 45757,
+            "slice": 11
+        }
+    },
+    "case_00089": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 69,
+            "min_y": 133,
+            "min_z": 3,
+            "max_x": 193,
+            "max_y": 187,
+            "max_z": 18,
+            "area": 19545,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 162,
+            "min_y": 140,
+            "min_z": 5,
+            "max_x": 193,
+            "max_y": 172,
+            "max_z": 13,
+            "area": 4216,
+            "slice": 8
+        }
+    },
+    "case_00090": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 25
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 205,
+            "max_y": 187,
+            "max_z": 21,
+            "area": 21466,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 63,
+            "min_y": 126,
+            "min_z": 5,
+            "max_x": 96,
+            "max_y": 173,
+            "max_z": 20,
+            "area": 10032,
+            "slice": 15
+        }
+    },
+    "case_00091": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 63
+        },
+        "kidney": {
+            "min_x": 61,
+            "min_y": 95,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 157,
+            "max_z": 63,
+            "area": 70719,
+            "slice": 63
+        },
+        "tumor": {
+            "min_x": 61,
+            "min_y": 97,
+            "min_z": 5,
+            "max_x": 84,
+            "max_y": 120,
+            "max_z": 58,
+            "area": 11656,
+            "slice": 53
+        }
+    },
+    "case_00092": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 39,
+            "min_y": 70,
+            "min_z": 5,
+            "max_x": 211,
+            "max_y": 167,
+            "max_z": 23,
+            "area": 32250,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 39,
+            "min_y": 93,
+            "min_z": 5,
+            "max_x": 113,
+            "max_y": 170,
+            "max_z": 21,
+            "area": 35152,
+            "slice": 16
+        }
+    },
+    "case_00093": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 58
+        },
+        "kidney": {
+            "min_x": 73,
+            "min_y": 111,
+            "min_z": 5,
+            "max_x": 185,
+            "max_y": 147,
+            "max_z": 58,
+            "area": 15115,
+            "slice": 53
+        },
+        "tumor": {
+            "min_x": 160,
+            "min_y": 112,
+            "min_z": 5,
+            "max_x": 178,
+            "max_y": 128,
+            "max_z": 53,
+            "area": 6765,
+            "slice": 48
+        }
+    },
+    "case_00094": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 46,
+            "min_y": 126,
+            "min_z": 0,
+            "max_x": 220,
+            "max_y": 194,
+            "max_z": 14,
+            "area": 34328,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 196,
+            "min_y": 146,
+            "min_z": 5,
+            "max_x": 220,
+            "max_y": 175,
+            "max_z": 9,
+            "area": 1133,
+            "slice": 4
+        }
+    },
+    "case_00095": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 41
+        },
+        "kidney": {
+            "min_x": 65,
+            "min_y": 102,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 147,
+            "max_z": 41,
+            "area": 45091,
+            "slice": 41
+        },
+        "tumor": {
+            "min_x": 77,
+            "min_y": 121,
+            "min_z": 5,
+            "max_x": 103,
+            "max_y": 147,
+            "max_z": 36,
+            "area": 10017,
+            "slice": 31
+        }
+    },
+    "case_00096": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 52
+        },
+        "kidney": {
+            "min_x": 61,
+            "min_y": 125,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 174,
+            "max_z": 52,
+            "area": 40649,
+            "slice": 52
+        },
+        "tumor": {
+            "min_x": 64,
+            "min_y": 141,
+            "min_z": 5,
+            "max_x": 85,
+            "max_y": 161,
+            "max_z": 47,
+            "area": 7646,
+            "slice": 42
+        }
+    },
+    "case_00097": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 61,
+            "min_y": 108,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 171,
+            "max_z": 15,
+            "area": 23878,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 66,
+            "min_y": 108,
+            "min_z": 5,
+            "max_x": 88,
+            "max_y": 128,
+            "max_z": 10,
+            "area": 1298,
+            "slice": 5
+        }
+    },
+    "case_00098": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 34
+        },
+        "kidney": {
+            "min_x": 55,
+            "min_y": 117,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 170,
+            "max_z": 34,
+            "area": 57226,
+            "slice": 34
+        },
+        "tumor": {
+            "min_x": 166,
+            "min_y": 143,
+            "min_z": 5,
+            "max_x": 194,
+            "max_y": 170,
+            "max_z": 29,
+            "area": 8456,
+            "slice": 24
+        }
+    },
+    "case_00099": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 49,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 206,
+            "max_y": 187,
+            "max_z": 18,
+            "area": 22505,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 55,
+            "min_y": 139,
+            "min_z": 5,
+            "max_x": 100,
+            "max_y": 180,
+            "max_z": 13,
+            "area": 7956,
+            "slice": 8
+        }
+    },
+    "case_00100": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 27
+        },
+        "kidney": {
+            "min_x": 75,
+            "min_y": 112,
+            "min_z": 0,
+            "max_x": 191,
+            "max_y": 166,
+            "max_z": 27,
+            "area": 45906,
+            "slice": 27
+        },
+        "tumor": {
+            "min_x": 75,
+            "min_y": 130,
+            "min_z": 5,
+            "max_x": 86,
+            "max_y": 140,
+            "max_z": 22,
+            "area": 827,
+            "slice": 17
+        }
+    },
+    "case_00101": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 47
+        },
+        "kidney": {
+            "min_x": 77,
+            "min_y": 161,
+            "min_z": 5,
+            "max_x": 181,
+            "max_y": 200,
+            "max_z": 47,
+            "area": 29163,
+            "slice": 42
+        },
+        "tumor": {
+            "min_x": 96,
+            "min_y": 170,
+            "min_z": 5,
+            "max_x": 109,
+            "max_y": 187,
+            "max_z": 42,
+            "area": 3255,
+            "slice": 37
+        }
+    },
+    "case_00102": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 122
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 111,
+            "min_z": 5,
+            "max_x": 212,
+            "max_y": 184,
+            "max_z": 122,
+            "area": 98772,
+            "slice": 117
+        },
+        "tumor": {
+            "min_x": 146,
+            "min_y": 111,
+            "min_z": 5,
+            "max_x": 212,
+            "max_y": 184,
+            "max_z": 117,
+            "area": 207155,
+            "slice": 112
+        }
+    },
+    "case_00103": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 52
+        },
+        "kidney": {
+            "min_x": 75,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 189,
+            "max_y": 158,
+            "max_z": 52,
+            "area": 45469,
+            "slice": 52
+        },
+        "tumor": {
+            "min_x": 145,
+            "min_y": 138,
+            "min_z": 5,
+            "max_x": 162,
+            "max_y": 154,
+            "max_z": 47,
+            "area": 3663,
+            "slice": 42
+        }
+    },
+    "case_00104": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 54,
+            "min_y": 118,
+            "min_z": 5,
+            "max_x": 199,
+            "max_y": 198,
+            "max_z": 23,
+            "area": 22529,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 54,
+            "min_y": 121,
+            "min_z": 5,
+            "max_x": 191,
+            "max_y": 196,
+            "max_z": 23,
+            "area": 3972,
+            "slice": 11
+        }
+    },
+    "case_00105": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 24
+        },
+        "kidney": {
+            "min_x": 72,
+            "min_y": 135,
+            "min_z": 5,
+            "max_x": 172,
+            "max_y": 180,
+            "max_z": 24,
+            "area": 12997,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 78,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 109,
+            "max_y": 180,
+            "max_z": 19,
+            "area": 5017,
+            "slice": 14
+        }
+    },
+    "case_00106": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 132,
+            "min_z": 0,
+            "max_x": 203,
+            "max_y": 180,
+            "max_z": 14,
+            "area": 28911,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 164,
+            "min_y": 159,
+            "min_z": 5,
+            "max_x": 177,
+            "max_y": 173,
+            "max_z": 9,
+            "area": 252,
+            "slice": 4
+        }
+    },
+    "case_00107": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 108,
+            "min_z": 3,
+            "max_x": 210,
+            "max_y": 189,
+            "max_z": 22,
+            "area": 28520,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 147,
+            "min_y": 123,
+            "min_z": 5,
+            "max_x": 210,
+            "max_y": 189,
+            "max_z": 21,
+            "area": 33480,
+            "slice": 16
+        }
+    },
+    "case_00108": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 202,
+            "max_y": 194,
+            "max_z": 22,
+            "area": 25815,
+            "slice": 22
+        },
+        "tumor": {
+            "min_x": 146,
+            "min_y": 124,
+            "min_z": 5,
+            "max_x": 202,
+            "max_y": 163,
+            "max_z": 21,
+            "area": 14917,
+            "slice": 16
+        }
+    },
+    "case_00109": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 24
+        },
+        "kidney": {
+            "min_x": 29,
+            "min_y": 98,
+            "min_z": 0,
+            "max_x": 208,
+            "max_y": 172,
+            "max_z": 24,
+            "area": 28694,
+            "slice": 24
+        },
+        "tumor": {
+            "min_x": 29,
+            "min_y": 98,
+            "min_z": 5,
+            "max_x": 86,
+            "max_y": 150,
+            "max_z": 19,
+            "area": 18978,
+            "slice": 14
+        }
+    },
+    "case_00110": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 59,
+            "min_y": 108,
+            "min_z": 0,
+            "max_x": 204,
+            "max_y": 161,
+            "max_z": 15,
+            "area": 19964,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 180,
+            "min_y": 110,
+            "min_z": 5,
+            "max_x": 204,
+            "max_y": 134,
+            "max_z": 12,
+            "area": 1645,
+            "slice": 7
+        }
+    },
+    "case_00111": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 118,
+            "min_z": 0,
+            "max_x": 202,
+            "max_y": 177,
+            "max_z": 21,
+            "area": 42785,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 172,
+            "min_y": 127,
+            "min_z": 5,
+            "max_x": 198,
+            "max_y": 155,
+            "max_z": 16,
+            "area": 3872,
+            "slice": 11
+        }
+    },
+    "case_00112": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 30
+        },
+        "kidney": {
+            "min_x": 42,
+            "min_y": 128,
+            "min_z": 0,
+            "max_x": 209,
+            "max_y": 188,
+            "max_z": 30,
+            "area": 53750,
+            "slice": 30
+        },
+        "tumor": {
+            "min_x": 42,
+            "min_y": 146,
+            "min_z": 5,
+            "max_x": 85,
+            "max_y": 188,
+            "max_z": 25,
+            "area": 16026,
+            "slice": 20
+        }
+    },
+    "case_00113": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 147,
+            "min_z": 5,
+            "max_x": 221,
+            "max_y": 210,
+            "max_z": 21,
+            "area": 29155,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 157,
+            "min_y": 147,
+            "min_z": 5,
+            "max_x": 221,
+            "max_y": 204,
+            "max_z": 16,
+            "area": 10566,
+            "slice": 11
+        }
+    },
+    "case_00114": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 158
+        },
+        "kidney": {
+            "min_x": 27,
+            "min_y": 63,
+            "min_z": 16,
+            "max_x": 207,
+            "max_y": 169,
+            "max_z": 153,
+            "area": 161484,
+            "slice": 136
+        },
+        "tumor": {
+            "min_x": 28,
+            "min_y": 62,
+            "min_z": 5,
+            "max_x": 112,
+            "max_y": 142,
+            "max_z": 153,
+            "area": 427849,
+            "slice": 146
+        }
+    },
+    "case_00115": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 54
+        },
+        "kidney": {
+            "min_x": 70,
+            "min_y": 129,
+            "min_z": 0,
+            "max_x": 183,
+            "max_y": 172,
+            "max_z": 54,
+            "area": 53645,
+            "slice": 54
+        },
+        "tumor": {
+            "min_x": 156,
+            "min_y": 144,
+            "min_z": 5,
+            "max_x": 176,
+            "max_y": 167,
+            "max_z": 49,
+            "area": 7904,
+            "slice": 44
+        }
+    },
+    "case_00116": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 83
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 136,
+            "min_z": 0,
+            "max_x": 210,
+            "max_y": 188,
+            "max_z": 82,
+            "area": 118860,
+            "slice": 82
+        },
+        "tumor": {
+            "min_x": 63,
+            "min_y": 151,
+            "min_z": 5,
+            "max_x": 94,
+            "max_y": 184,
+            "max_z": 78,
+            "area": 30555,
+            "slice": 73
+        }
+    },
+    "case_00117": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 33
+        },
+        "kidney": {
+            "min_x": 60,
+            "min_y": 112,
+            "min_z": 0,
+            "max_x": 206,
+            "max_y": 180,
+            "max_z": 32,
+            "area": 61186,
+            "slice": 32
+        },
+        "tumor": {
+            "min_x": 74,
+            "min_y": 134,
+            "min_z": 5,
+            "max_x": 206,
+            "max_y": 157,
+            "max_z": 28,
+            "area": 3827,
+            "slice": 21
+        }
+    },
+    "case_00118": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 132
+        },
+        "kidney": {
+            "min_x": 65,
+            "min_y": 109,
+            "min_z": 0,
+            "max_x": 199,
+            "max_y": 168,
+            "max_z": 132,
+            "area": 232346,
+            "slice": 132
+        },
+        "tumor": {
+            "min_x": 69,
+            "min_y": 124,
+            "min_z": 5,
+            "max_x": 179,
+            "max_y": 160,
+            "max_z": 127,
+            "area": 47158,
+            "slice": 122
+        }
+    },
+    "case_00119": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 31,
+            "min_y": 140,
+            "min_z": 2,
+            "max_x": 200,
+            "max_y": 200,
+            "max_z": 21,
+            "area": 41280,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 42,
+            "min_y": 149,
+            "min_z": 5,
+            "max_x": 83,
+            "max_y": 193,
+            "max_z": 16,
+            "area": 9218,
+            "slice": 11
+        }
+    },
+    "case_00120": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 70,
+            "min_y": 109,
+            "min_z": 0,
+            "max_x": 190,
+            "max_y": 148,
+            "max_z": 19,
+            "area": 9265,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 180,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 190,
+            "max_y": 138,
+            "max_z": 16,
+            "area": 249,
+            "slice": 11
+        }
+    },
+    "case_00121": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 60,
+            "min_y": 145,
+            "min_z": 5,
+            "max_x": 193,
+            "max_y": 192,
+            "max_z": 13,
+            "area": 9480,
+            "slice": 8
+        },
+        "tumor": {
+            "min_x": 150,
+            "min_y": 174,
+            "min_z": 5,
+            "max_x": 160,
+            "max_y": 185,
+            "max_z": 8,
+            "area": 160,
+            "slice": 3
+        }
+    },
+    "case_00122": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 54,
+            "min_y": 115,
+            "min_z": 4,
+            "max_x": 208,
+            "max_y": 186,
+            "max_z": 16,
+            "area": 21721,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 173,
+            "min_y": 134,
+            "min_z": 5,
+            "max_x": 198,
+            "max_y": 164,
+            "max_z": 11,
+            "area": 2118,
+            "slice": 6
+        }
+    },
+    "case_00123": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 60,
+            "min_y": 136,
+            "min_z": 0,
+            "max_x": 187,
+            "max_y": 174,
+            "max_z": 19,
+            "area": 34001,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 175,
+            "min_y": 149,
+            "min_z": 5,
+            "max_x": 186,
+            "max_y": 161,
+            "max_z": 14,
+            "area": 484,
+            "slice": 9
+        }
+    },
+    "case_00124": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 50,
+            "min_y": 120,
+            "min_z": 0,
+            "max_x": 209,
+            "max_y": 174,
+            "max_z": 16,
+            "area": 33192,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 178,
+            "min_y": 120,
+            "min_z": 5,
+            "max_x": 197,
+            "max_y": 138,
+            "max_z": 11,
+            "area": 622,
+            "slice": 6
+        }
+    },
+    "case_00125": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 71,
+            "min_y": 145,
+            "min_z": 0,
+            "max_x": 185,
+            "max_y": 201,
+            "max_z": 18,
+            "area": 29210,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 88,
+            "min_y": 182,
+            "min_z": 5,
+            "max_x": 102,
+            "max_y": 194,
+            "max_z": 13,
+            "area": 511,
+            "slice": 8
+        }
+    },
+    "case_00126": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 119,
+            "min_z": 0,
+            "max_x": 199,
+            "max_y": 189,
+            "max_z": 21,
+            "area": 26327,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 81,
+            "min_y": 119,
+            "min_z": 5,
+            "max_x": 106,
+            "max_y": 145,
+            "max_z": 16,
+            "area": 3346,
+            "slice": 11
+        }
+    },
+    "case_00127": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 76,
+            "min_y": 130,
+            "min_z": 0,
+            "max_x": 189,
+            "max_y": 171,
+            "max_z": 18,
+            "area": 21344,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 163,
+            "min_y": 130,
+            "min_z": 5,
+            "max_x": 178,
+            "max_y": 146,
+            "max_z": 13,
+            "area": 1121,
+            "slice": 8
+        }
+    },
+    "case_00128": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 105,
+            "min_z": 0,
+            "max_x": 200,
+            "max_y": 168,
+            "max_z": 21,
+            "area": 32012,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 76,
+            "min_y": 122,
+            "min_z": 5,
+            "max_x": 95,
+            "max_y": 140,
+            "max_z": 16,
+            "area": 1556,
+            "slice": 11
+        }
+    },
+    "case_00129": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 128,
+            "min_z": 0,
+            "max_x": 199,
+            "max_y": 174,
+            "max_z": 8,
+            "area": 12680,
+            "slice": 8
+        },
+        "tumor": {
+            "min_x": 167,
+            "min_y": 140,
+            "min_z": 5,
+            "max_x": 184,
+            "max_y": 156,
+            "max_z": 8,
+            "area": 406,
+            "slice": 3
+        }
+    },
+    "case_00130": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 33,
+            "min_y": 109,
+            "min_z": 0,
+            "max_x": 207,
+            "max_y": 192,
+            "max_z": 18,
+            "area": 31384,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 33,
+            "min_y": 144,
+            "min_z": 5,
+            "max_x": 79,
+            "max_y": 191,
+            "max_z": 14,
+            "area": 6079,
+            "slice": 9
+        }
+    },
+    "case_00131": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 55,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 203,
+            "max_y": 188,
+            "max_z": 21,
+            "area": 28101,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 146,
+            "min_y": 148,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 188,
+            "max_z": 16,
+            "area": 7370,
+            "slice": 11
+        }
+    },
+    "case_00132": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 46
+        },
+        "kidney": {
+            "min_x": 66,
+            "min_y": 144,
+            "min_z": 0,
+            "max_x": 198,
+            "max_y": 181,
+            "max_z": 46,
+            "area": 33692,
+            "slice": 46
+        },
+        "tumor": {
+            "min_x": 169,
+            "min_y": 159,
+            "min_z": 5,
+            "max_x": 185,
+            "max_y": 179,
+            "max_z": 41,
+            "area": 3409,
+            "slice": 36
+        }
+    },
+    "case_00133": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 54,
+            "min_y": 131,
+            "min_z": 0,
+            "max_x": 176,
+            "max_y": 176,
+            "max_z": 27,
+            "area": 19651,
+            "slice": 27
+        },
+        "tumor": {
+            "min_x": 60,
+            "min_y": 131,
+            "min_z": 5,
+            "max_x": 92,
+            "max_y": 163,
+            "max_z": 23,
+            "area": 7550,
+            "slice": 18
+        }
+    },
+    "case_00134": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 25
+        },
+        "kidney": {
+            "min_x": 72,
+            "min_y": 119,
+            "min_z": 0,
+            "max_x": 189,
+            "max_y": 164,
+            "max_z": 25,
+            "area": 17865,
+            "slice": 25
+        },
+        "tumor": {
+            "min_x": 160,
+            "min_y": 130,
+            "min_z": 5,
+            "max_x": 189,
+            "max_y": 159,
+            "max_z": 20,
+            "area": 4790,
+            "slice": 15
+        }
+    },
+    "case_00135": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 197
+        },
+        "kidney": {
+            "min_x": 75,
+            "min_y": 95,
+            "min_z": 0,
+            "max_x": 217,
+            "max_y": 186,
+            "max_z": 190,
+            "area": 192883,
+            "slice": 190
+        },
+        "tumor": {
+            "min_x": 155,
+            "min_y": 120,
+            "min_z": 5,
+            "max_x": 212,
+            "max_y": 182,
+            "max_z": 192,
+            "area": 334524,
+            "slice": 187
+        }
+    },
+    "case_00136": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 104,
+            "min_z": 1,
+            "max_x": 207,
+            "max_y": 167,
+            "max_z": 15,
+            "area": 24695,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 61,
+            "min_y": 148,
+            "min_z": 5,
+            "max_x": 82,
+            "max_y": 167,
+            "max_z": 10,
+            "area": 741,
+            "slice": 5
+        }
+    },
+    "case_00137": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 69,
+            "min_y": 142,
+            "min_z": 0,
+            "max_x": 187,
+            "max_y": 195,
+            "max_z": 15,
+            "area": 20804,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 79,
+            "min_y": 175,
+            "min_z": 5,
+            "max_x": 91,
+            "max_y": 187,
+            "max_z": 10,
+            "area": 308,
+            "slice": 5
+        }
+    },
+    "case_00138": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 123,
+            "min_z": 0,
+            "max_x": 222,
+            "max_y": 188,
+            "max_z": 16,
+            "area": 32113,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 175,
+            "min_y": 130,
+            "min_z": 5,
+            "max_x": 197,
+            "max_y": 157,
+            "max_z": 12,
+            "area": 2200,
+            "slice": 7
+        }
+    },
+    "case_00139": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 30
+        },
+        "kidney": {
+            "min_x": 39,
+            "min_y": 93,
+            "min_z": 2,
+            "max_x": 204,
+            "max_y": 192,
+            "max_z": 25,
+            "area": 24897,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 39,
+            "min_y": 93,
+            "min_z": 5,
+            "max_x": 115,
+            "max_y": 183,
+            "max_z": 25,
+            "area": 60078,
+            "slice": 20
+        }
+    },
+    "case_00140": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 60,
+            "min_y": 134,
+            "min_z": 0,
+            "max_x": 186,
+            "max_y": 184,
+            "max_z": 28,
+            "area": 63102,
+            "slice": 28
+        },
+        "tumor": {
+            "min_x": 159,
+            "min_y": 143,
+            "min_z": 5,
+            "max_x": 174,
+            "max_y": 160,
+            "max_z": 23,
+            "area": 1505,
+            "slice": 18
+        }
+    },
+    "case_00141": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 40
+        },
+        "kidney": {
+            "min_x": 54,
+            "min_y": 139,
+            "min_z": 0,
+            "max_x": 217,
+            "max_y": 197,
+            "max_z": 40,
+            "area": 103078,
+            "slice": 40
+        },
+        "tumor": {
+            "min_x": 82,
+            "min_y": 175,
+            "min_z": 5,
+            "max_x": 97,
+            "max_y": 190,
+            "max_z": 35,
+            "area": 3040,
+            "slice": 30
+        }
+    },
+    "case_00142": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 50
+        },
+        "kidney": {
+            "min_x": 61,
+            "min_y": 141,
+            "min_z": 0,
+            "max_x": 214,
+            "max_y": 189,
+            "max_z": 50,
+            "area": 80508,
+            "slice": 50
+        },
+        "tumor": {
+            "min_x": 188,
+            "min_y": 157,
+            "min_z": 5,
+            "max_x": 214,
+            "max_y": 186,
+            "max_z": 45,
+            "area": 11566,
+            "slice": 40
+        }
+    },
+    "case_00143": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 65,
+            "min_y": 116,
+            "min_z": 0,
+            "max_x": 185,
+            "max_y": 171,
+            "max_z": 19,
+            "area": 18807,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 69,
+            "min_y": 131,
+            "min_z": 5,
+            "max_x": 95,
+            "max_y": 165,
+            "max_z": 14,
+            "area": 3333,
+            "slice": 9
+        }
+    },
+    "case_00144": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 155,
+            "min_y": 145,
+            "min_z": 5,
+            "max_x": 195,
+            "max_y": 187,
+            "max_z": 23,
+            "area": 6898,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 157,
+            "min_y": 157,
+            "min_z": 5,
+            "max_x": 186,
+            "max_y": 187,
+            "max_z": 18,
+            "area": 4305,
+            "slice": 13
+        }
+    },
+    "case_00145": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 32
+        },
+        "kidney": {
+            "min_x": 67,
+            "min_y": 101,
+            "min_z": 0,
+            "max_x": 192,
+            "max_y": 161,
+            "max_z": 31,
+            "area": 21154,
+            "slice": 31
+        },
+        "tumor": {
+            "min_x": 144,
+            "min_y": 106,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 147,
+            "max_z": 31,
+            "area": 17541,
+            "slice": 26
+        }
+    },
+    "case_00146": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 41
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 121,
+            "min_z": 0,
+            "max_x": 215,
+            "max_y": 179,
+            "max_z": 41,
+            "area": 104607,
+            "slice": 41
+        },
+        "tumor": {
+            "min_x": 183,
+            "min_y": 151,
+            "min_z": 5,
+            "max_x": 206,
+            "max_y": 175,
+            "max_z": 36,
+            "area": 7392,
+            "slice": 31
+        }
+    },
+    "case_00147": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 118,
+            "min_z": 0,
+            "max_x": 187,
+            "max_y": 160,
+            "max_z": 12,
+            "area": 10494,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 63,
+            "min_y": 121,
+            "min_z": 5,
+            "max_x": 80,
+            "max_y": 141,
+            "max_z": 11,
+            "area": 1053,
+            "slice": 6
+        }
+    },
+    "case_00148": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 67,
+            "min_y": 133,
+            "min_z": 5,
+            "max_x": 189,
+            "max_y": 176,
+            "max_z": 16,
+            "area": 9548,
+            "slice": 11
+        },
+        "tumor": {
+            "min_x": 151,
+            "min_y": 152,
+            "min_z": 5,
+            "max_x": 174,
+            "max_y": 176,
+            "max_z": 11,
+            "area": 1492,
+            "slice": 6
+        }
+    },
+    "case_00149": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 34
+        },
+        "kidney": {
+            "min_x": 59,
+            "min_y": 109,
+            "min_z": 5,
+            "max_x": 208,
+            "max_y": 172,
+            "max_z": 34,
+            "area": 46188,
+            "slice": 29
+        },
+        "tumor": {
+            "min_x": 144,
+            "min_y": 120,
+            "min_z": 5,
+            "max_x": 188,
+            "max_y": 171,
+            "max_z": 29,
+            "area": 23388,
+            "slice": 24
+        }
+    },
+    "case_00150": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 51,
+            "min_y": 117,
+            "min_z": 0,
+            "max_x": 193,
+            "max_y": 173,
+            "max_z": 18,
+            "area": 38934,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 63,
+            "min_y": 146,
+            "min_z": 5,
+            "max_x": 82,
+            "max_y": 168,
+            "max_z": 13,
+            "area": 1656,
+            "slice": 8
+        }
+    },
+    "case_00151": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 227
+        },
+        "kidney": {
+            "min_x": 68,
+            "min_y": 86,
+            "min_z": 0,
+            "max_x": 204,
+            "max_y": 164,
+            "max_z": 222,
+            "area": 238302,
+            "slice": 222
+        },
+        "tumor": {
+            "min_x": 130,
+            "min_y": 86,
+            "min_z": 5,
+            "max_x": 204,
+            "max_y": 155,
+            "max_z": 222,
+            "area": 160305,
+            "slice": 207
+        }
+    },
+    "case_00152": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 51,
+            "min_y": 130,
+            "min_z": 1,
+            "max_x": 206,
+            "max_y": 179,
+            "max_z": 13,
+            "area": 20423,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 150,
+            "min_y": 149,
+            "min_z": 5,
+            "max_x": 169,
+            "max_y": 169,
+            "max_z": 8,
+            "area": 552,
+            "slice": 3
+        }
+    },
+    "case_00153": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 51,
+            "min_y": 96,
+            "min_z": 0,
+            "max_x": 207,
+            "max_y": 174,
+            "max_z": 17,
+            "area": 45940,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 54,
+            "min_y": 134,
+            "min_z": 5,
+            "max_x": 78,
+            "max_y": 156,
+            "max_z": 12,
+            "area": 1662,
+            "slice": 7
+        }
+    },
+    "case_00154": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 62
+        },
+        "kidney": {
+            "min_x": 71,
+            "min_y": 122,
+            "min_z": 0,
+            "max_x": 194,
+            "max_y": 164,
+            "max_z": 62,
+            "area": 70737,
+            "slice": 62
+        },
+        "tumor": {
+            "min_x": 154,
+            "min_y": 124,
+            "min_z": 5,
+            "max_x": 174,
+            "max_y": 144,
+            "max_z": 57,
+            "area": 8789,
+            "slice": 52
+        }
+    },
+    "case_00155": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 53
+        },
+        "kidney": {
+            "min_x": 71,
+            "min_y": 135,
+            "min_z": 0,
+            "max_x": 192,
+            "max_y": 172,
+            "max_z": 53,
+            "area": 34053,
+            "slice": 53
+        },
+        "tumor": {
+            "min_x": 175,
+            "min_y": 150,
+            "min_z": 5,
+            "max_x": 192,
+            "max_y": 165,
+            "max_z": 48,
+            "area": 3724,
+            "slice": 43
+        }
+    },
+    "case_00156": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 36
+        },
+        "kidney": {
+            "min_x": 77,
+            "min_y": 127,
+            "min_z": 0,
+            "max_x": 181,
+            "max_y": 165,
+            "max_z": 36,
+            "area": 24375,
+            "slice": 36
+        },
+        "tumor": {
+            "min_x": 80,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 94,
+            "max_y": 142,
+            "max_z": 31,
+            "area": 1518,
+            "slice": 26
+        }
+    },
+    "case_00157": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 109
+        },
+        "kidney": {
+            "min_x": 63,
+            "min_y": 134,
+            "min_z": 0,
+            "max_x": 205,
+            "max_y": 180,
+            "max_z": 109,
+            "area": 142708,
+            "slice": 109
+        },
+        "tumor": {
+            "min_x": 169,
+            "min_y": 134,
+            "min_z": 5,
+            "max_x": 205,
+            "max_y": 166,
+            "max_z": 104,
+            "area": 42917,
+            "slice": 99
+        }
+    },
+    "case_00158": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 33
+        },
+        "kidney": {
+            "min_x": 57,
+            "min_y": 104,
+            "min_z": 0,
+            "max_x": 211,
+            "max_y": 159,
+            "max_z": 33,
+            "area": 60136,
+            "slice": 33
+        },
+        "tumor": {
+            "min_x": 57,
+            "min_y": 126,
+            "min_z": 5,
+            "max_x": 75,
+            "max_y": 143,
+            "max_z": 28,
+            "area": 2916,
+            "slice": 23
+        }
+    },
+    "case_00159": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 94
+        },
+        "kidney": {
+            "min_x": 68,
+            "min_y": 141,
+            "min_z": 5,
+            "max_x": 190,
+            "max_y": 181,
+            "max_z": 94,
+            "area": 61630,
+            "slice": 89
+        },
+        "tumor": {
+            "min_x": 83,
+            "min_y": 145,
+            "min_z": 5,
+            "max_x": 118,
+            "max_y": 181,
+            "max_z": 89,
+            "area": 49329,
+            "slice": 84
+        }
+    },
+    "case_00160": {
+        "vol": {
+            "total_x": 398,
+            "total_y": 256,
+            "total_z": 32
+        },
+        "kidney": {
+            "min_x": 70,
+            "min_y": 128,
+            "min_z": 4,
+            "max_x": 299,
+            "max_y": 206,
+            "max_z": 32,
+            "area": 134017,
+            "slice": 28
+        },
+        "tumor": {
+            "min_x": 103,
+            "min_y": 139,
+            "min_z": 5,
+            "max_x": 162,
+            "max_y": 196,
+            "max_z": 27,
+            "area": 28239,
+            "slice": 22
+        }
+    },
+    "case_00161": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 17
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 137,
+            "min_z": 0,
+            "max_x": 198,
+            "max_y": 188,
+            "max_z": 13,
+            "area": 13956,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 62,
+            "min_y": 158,
+            "min_z": 5,
+            "max_x": 85,
+            "max_y": 183,
+            "max_z": 12,
+            "area": 1802,
+            "slice": 7
+        }
+    },
+    "case_00162": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 52,
+            "min_y": 126,
+            "min_z": 0,
+            "max_x": 202,
+            "max_y": 189,
+            "max_z": 10,
+            "area": 17648,
+            "slice": 10
+        },
+        "tumor": {
+            "min_x": 54,
+            "min_y": 126,
+            "min_z": 5,
+            "max_x": 92,
+            "max_y": 158,
+            "max_z": 10,
+            "area": 2965,
+            "slice": 5
+        }
+    },
+    "case_00163": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 68,
+            "min_y": 119,
+            "min_z": 0,
+            "max_x": 211,
+            "max_y": 167,
+            "max_z": 17,
+            "area": 29692,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 184,
+            "min_y": 125,
+            "min_z": 5,
+            "max_x": 211,
+            "max_y": 152,
+            "max_z": 14,
+            "area": 2460,
+            "slice": 9
+        }
+    },
+    "case_00164": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 56,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 198,
+            "max_y": 186,
+            "max_z": 11,
+            "area": 22327,
+            "slice": 11
+        },
+        "tumor": {
+            "min_x": 61,
+            "min_y": 136,
+            "min_z": 5,
+            "max_x": 76,
+            "max_y": 149,
+            "max_z": 8,
+            "area": 335,
+            "slice": 3
+        }
+    },
+    "case_00165": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 131,
+            "min_z": 0,
+            "max_x": 103,
+            "max_y": 176,
+            "max_z": 19,
+            "area": 19292,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 74,
+            "min_y": 168,
+            "min_z": 5,
+            "max_x": 81,
+            "max_y": 176,
+            "max_z": 14,
+            "area": 228,
+            "slice": 9
+        }
+    },
+    "case_00166": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 111,
+            "min_z": 0,
+            "max_x": 190,
+            "max_y": 169,
+            "max_z": 21,
+            "area": 33330,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 53,
+            "min_y": 122,
+            "min_z": 5,
+            "max_x": 89,
+            "max_y": 159,
+            "max_z": 16,
+            "area": 6213,
+            "slice": 11
+        }
+    },
+    "case_00167": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 71,
+            "min_y": 132,
+            "min_z": 0,
+            "max_x": 194,
+            "max_y": 181,
+            "max_z": 14,
+            "area": 21790,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 86,
+            "min_y": 143,
+            "min_z": 5,
+            "max_x": 102,
+            "max_y": 158,
+            "max_z": 9,
+            "area": 500,
+            "slice": 4
+        }
+    },
+    "case_00168": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 65,
+            "min_y": 143,
+            "min_z": 0,
+            "max_x": 182,
+            "max_y": 191,
+            "max_z": 16,
+            "area": 13245,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 83,
+            "min_y": 156,
+            "min_z": 5,
+            "max_x": 109,
+            "max_y": 185,
+            "max_z": 11,
+            "area": 2289,
+            "slice": 6
+        }
+    },
+    "case_00169": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 47,
+            "min_y": 107,
+            "min_z": 1,
+            "max_x": 205,
+            "max_y": 165,
+            "max_z": 18,
+            "area": 24358,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 48,
+            "min_y": 130,
+            "min_z": 5,
+            "max_x": 75,
+            "max_y": 161,
+            "max_z": 13,
+            "area": 2680,
+            "slice": 8
+        }
+    },
+    "case_00170": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 27
+        },
+        "kidney": {
+            "min_x": 77,
+            "min_y": 125,
+            "min_z": 0,
+            "max_x": 178,
+            "max_y": 161,
+            "max_z": 22,
+            "area": 4988,
+            "slice": 22
+        },
+        "tumor": {
+            "min_x": 82,
+            "min_y": 125,
+            "min_z": 5,
+            "max_x": 104,
+            "max_y": 147,
+            "max_z": 22,
+            "area": 3048,
+            "slice": 17
+        }
+    },
+    "case_00171": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 20
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 130,
+            "min_z": 0,
+            "max_x": 215,
+            "max_y": 185,
+            "max_z": 18,
+            "area": 25553,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 172,
+            "min_y": 130,
+            "min_z": 5,
+            "max_x": 215,
+            "max_y": 173,
+            "max_z": 15,
+            "area": 9531,
+            "slice": 10
+        }
+    },
+    "case_00172": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 26
+        },
+        "kidney": {
+            "min_x": 28,
+            "min_y": 81,
+            "min_z": 0,
+            "max_x": 200,
+            "max_y": 175,
+            "max_z": 21,
+            "area": 19427,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 28,
+            "min_y": 91,
+            "min_z": 5,
+            "max_x": 99,
+            "max_y": 162,
+            "max_z": 21,
+            "area": 40327,
+            "slice": 16
+        }
+    },
+    "case_00173": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 73,
+            "min_y": 128,
+            "min_z": 0,
+            "max_x": 199,
+            "max_y": 176,
+            "max_z": 14,
+            "area": 21296,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 77,
+            "min_y": 155,
+            "min_z": 5,
+            "max_x": 95,
+            "max_y": 171,
+            "max_z": 9,
+            "area": 449,
+            "slice": 4
+        }
+    },
+    "case_00174": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 66,
+            "min_y": 143,
+            "min_z": 0,
+            "max_x": 197,
+            "max_y": 192,
+            "max_z": 14,
+            "area": 20022,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 79,
+            "min_y": 153,
+            "min_z": 5,
+            "max_x": 97,
+            "max_y": 170,
+            "max_z": 13,
+            "area": 1151,
+            "slice": 8
+        }
+    },
+    "case_00175": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 151,
+            "min_z": 0,
+            "max_x": 206,
+            "max_y": 214,
+            "max_z": 9,
+            "area": 14000,
+            "slice": 9
+        },
+        "tumor": {
+            "min_x": 167,
+            "min_y": 162,
+            "min_z": 5,
+            "max_x": 192,
+            "max_y": 185,
+            "max_z": 9,
+            "area": 885,
+            "slice": 4
+        }
+    },
+    "case_00176": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 140,
+            "min_z": 3,
+            "max_x": 215,
+            "max_y": 187,
+            "max_z": 18,
+            "area": 16562,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 188,
+            "min_y": 158,
+            "min_z": 5,
+            "max_x": 215,
+            "max_y": 187,
+            "max_z": 13,
+            "area": 2470,
+            "slice": 8
+        }
+    },
+    "case_00177": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 52,
+            "min_y": 135,
+            "min_z": 1,
+            "max_x": 209,
+            "max_y": 186,
+            "max_z": 15,
+            "area": 21261,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 52,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 83,
+            "max_y": 186,
+            "max_z": 10,
+            "area": 2257,
+            "slice": 5
+        }
+    },
+    "case_00178": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 25
+        },
+        "kidney": {
+            "min_x": 75,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 196,
+            "max_y": 183,
+            "max_z": 20,
+            "area": 18575,
+            "slice": 20
+        },
+        "tumor": {
+            "min_x": 149,
+            "min_y": 124,
+            "min_z": 5,
+            "max_x": 196,
+            "max_y": 177,
+            "max_z": 20,
+            "area": 17292,
+            "slice": 15
+        }
+    },
+    "case_00179": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 41,
+            "min_y": 120,
+            "min_z": 0,
+            "max_x": 198,
+            "max_y": 196,
+            "max_z": 17,
+            "area": 26200,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 41,
+            "min_y": 132,
+            "min_z": 5,
+            "max_x": 94,
+            "max_y": 196,
+            "max_z": 14,
+            "area": 10911,
+            "slice": 9
+        }
+    },
+    "case_00180": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 128,
+            "min_z": 1,
+            "max_x": 194,
+            "max_y": 192,
+            "max_z": 23,
+            "area": 31236,
+            "slice": 22
+        },
+        "tumor": {
+            "min_x": 65,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 112,
+            "max_y": 173,
+            "max_z": 18,
+            "area": 11725,
+            "slice": 13
+        }
+    },
+    "case_00181": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 55,
+            "min_y": 102,
+            "min_z": 0,
+            "max_x": 205,
+            "max_y": 202,
+            "max_z": 23,
+            "area": 25711,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 129,
+            "min_y": 99,
+            "min_z": 5,
+            "max_x": 204,
+            "max_y": 182,
+            "max_z": 23,
+            "area": 48802,
+            "slice": 18
+        }
+    },
+    "case_00182": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 58,
+            "min_y": 102,
+            "min_z": 0,
+            "max_x": 192,
+            "max_y": 156,
+            "max_z": 13,
+            "area": 20400,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 172,
+            "min_y": 117,
+            "min_z": 5,
+            "max_x": 186,
+            "max_y": 129,
+            "max_z": 8,
+            "area": 271,
+            "slice": 3
+        }
+    },
+    "case_00183": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 27
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 99,
+            "min_z": 0,
+            "max_x": 192,
+            "max_y": 153,
+            "max_z": 27,
+            "area": 36428,
+            "slice": 27
+        },
+        "tumor": {
+            "min_x": 166,
+            "min_y": 120,
+            "min_z": 5,
+            "max_x": 191,
+            "max_y": 147,
+            "max_z": 22,
+            "area": 5048,
+            "slice": 17
+        }
+    },
+    "case_00184": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 27
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 100,
+            "min_z": 1,
+            "max_x": 205,
+            "max_y": 172,
+            "max_z": 24,
+            "area": 33183,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 66,
+            "min_y": 104,
+            "min_z": 5,
+            "max_x": 205,
+            "max_y": 165,
+            "max_z": 22,
+            "area": 13587,
+            "slice": 17
+        }
+    },
+    "case_00185": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 28
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 111,
+            "min_z": 0,
+            "max_x": 211,
+            "max_y": 172,
+            "max_z": 28,
+            "area": 54237,
+            "slice": 28
+        },
+        "tumor": {
+            "min_x": 53,
+            "min_y": 125,
+            "min_z": 5,
+            "max_x": 75,
+            "max_y": 152,
+            "max_z": 23,
+            "area": 4893,
+            "slice": 18
+        }
+    },
+    "case_00186": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 47,
+            "min_y": 115,
+            "min_z": 5,
+            "max_x": 214,
+            "max_y": 184,
+            "max_z": 23,
+            "area": 26013,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 157,
+            "min_y": 124,
+            "min_z": 5,
+            "max_x": 214,
+            "max_y": 184,
+            "max_z": 18,
+            "area": 18416,
+            "slice": 13
+        }
+    },
+    "case_00187": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 20
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 132,
+            "min_z": 3,
+            "max_x": 218,
+            "max_y": 204,
+            "max_z": 20,
+            "area": 26648,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 149,
+            "min_y": 146,
+            "min_z": 3,
+            "max_x": 204,
+            "max_y": 199,
+            "max_z": 15,
+            "area": 14106,
+            "slice": 12
+        }
+    },
+    "case_00188": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 23
+        },
+        "kidney": {
+            "min_x": 71,
+            "min_y": 111,
+            "min_z": 0,
+            "max_x": 203,
+            "max_y": 189,
+            "max_z": 23,
+            "area": 54264,
+            "slice": 23
+        },
+        "tumor": {
+            "min_x": 71,
+            "min_y": 150,
+            "min_z": 5,
+            "max_x": 87,
+            "max_y": 165,
+            "max_z": 18,
+            "area": 1249,
+            "slice": 13
+        }
+    },
+    "case_00189": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 25
+        },
+        "kidney": {
+            "min_x": 50,
+            "min_y": 98,
+            "min_z": 0,
+            "max_x": 204,
+            "max_y": 181,
+            "max_z": 20,
+            "area": 24616,
+            "slice": 20
+        },
+        "tumor": {
+            "min_x": 50,
+            "min_y": 98,
+            "min_z": 5,
+            "max_x": 109,
+            "max_y": 164,
+            "max_z": 20,
+            "area": 24157,
+            "slice": 15
+        }
+    },
+    "case_00190": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 53,
+            "min_y": 111,
+            "min_z": 0,
+            "max_x": 212,
+            "max_y": 173,
+            "max_z": 16,
+            "area": 29789,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 58,
+            "min_y": 130,
+            "min_z": 5,
+            "max_x": 86,
+            "max_y": 152,
+            "max_z": 13,
+            "area": 2346,
+            "slice": 8
+        }
+    },
+    "case_00191": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 62,
+            "min_y": 132,
+            "min_z": 0,
+            "max_x": 204,
+            "max_y": 177,
+            "max_z": 19,
+            "area": 23186,
+            "slice": 19
+        },
+        "tumor": {
+            "min_x": 177,
+            "min_y": 148,
+            "min_z": 5,
+            "max_x": 191,
+            "max_y": 161,
+            "max_z": 14,
+            "area": 686,
+            "slice": 9
+        }
+    },
+    "case_00192": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 29
+        },
+        "kidney": {
+            "min_x": 47,
+            "min_y": 79,
+            "min_z": 0,
+            "max_x": 220,
+            "max_y": 175,
+            "max_z": 24,
+            "area": 37099,
+            "slice": 24
+        },
+        "tumor": {
+            "min_x": 133,
+            "min_y": 79,
+            "min_z": 5,
+            "max_x": 208,
+            "max_y": 161,
+            "max_z": 24,
+            "area": 49433,
+            "slice": 19
+        }
+    },
+    "case_00193": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 22
+        },
+        "kidney": {
+            "min_x": 73,
+            "min_y": 126,
+            "min_z": 0,
+            "max_x": 203,
+            "max_y": 179,
+            "max_z": 22,
+            "area": 40359,
+            "slice": 22
+        },
+        "tumor": {
+            "min_x": 172,
+            "min_y": 157,
+            "min_z": 5,
+            "max_x": 196,
+            "max_y": 176,
+            "max_z": 17,
+            "area": 2276,
+            "slice": 12
+        }
+    },
+    "case_00194": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 48,
+            "min_y": 116,
+            "min_z": 0,
+            "max_x": 99,
+            "max_y": 178,
+            "max_z": 13,
+            "area": 16801,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 78,
+            "min_y": 156,
+            "min_z": 5,
+            "max_x": 92,
+            "max_y": 169,
+            "max_z": 9,
+            "area": 285,
+            "slice": 4
+        }
+    },
+    "case_00195": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 19
+        },
+        "kidney": {
+            "min_x": 45,
+            "min_y": 135,
+            "min_z": 3,
+            "max_x": 203,
+            "max_y": 199,
+            "max_z": 19,
+            "area": 29852,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 65,
+            "min_y": 135,
+            "min_z": 5,
+            "max_x": 104,
+            "max_y": 177,
+            "max_z": 14,
+            "area": 7036,
+            "slice": 9
+        }
+    },
+    "case_00196": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 24
+        },
+        "kidney": {
+            "min_x": 56,
+            "min_y": 113,
+            "min_z": 0,
+            "max_x": 203,
+            "max_y": 161,
+            "max_z": 21,
+            "area": 32540,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 176,
+            "min_y": 129,
+            "min_z": 5,
+            "max_x": 203,
+            "max_y": 152,
+            "max_z": 19,
+            "area": 4583,
+            "slice": 14
+        }
+    },
+    "case_00197": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 36
+        },
+        "kidney": {
+            "min_x": 64,
+            "min_y": 124,
+            "min_z": 0,
+            "max_x": 206,
+            "max_y": 188,
+            "max_z": 31,
+            "area": 29774,
+            "slice": 31
+        },
+        "tumor": {
+            "min_x": 152,
+            "min_y": 140,
+            "min_z": 5,
+            "max_x": 206,
+            "max_y": 186,
+            "max_z": 31,
+            "area": 20908,
+            "slice": 26
+        }
+    },
+    "case_00198": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 16
+        },
+        "kidney": {
+            "min_x": 54,
+            "min_y": 113,
+            "min_z": 0,
+            "max_x": 216,
+            "max_y": 168,
+            "max_z": 16,
+            "area": 35163,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 60,
+            "min_y": 120,
+            "min_z": 5,
+            "max_x": 74,
+            "max_y": 133,
+            "max_z": 11,
+            "area": 646,
+            "slice": 6
+        }
+    },
+    "case_00199": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 30
+        },
+        "kidney": {
+            "min_x": 47,
+            "min_y": 73,
+            "min_z": 0,
+            "max_x": 209,
+            "max_y": 151,
+            "max_z": 25,
+            "area": 51727,
+            "slice": 25
+        },
+        "tumor": {
+            "min_x": 47,
+            "min_y": 100,
+            "min_z": 5,
+            "max_x": 99,
+            "max_y": 148,
+            "max_z": 25,
+            "area": 19643,
+            "slice": 20
+        }
+    },
+    "case_00200": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 49,
+            "min_y": 128,
+            "min_z": 5,
+            "max_x": 204,
+            "max_y": 188,
+            "max_z": 21,
+            "area": 30196,
+            "slice": 16
+        },
+        "tumor": {
+            "min_x": 147,
+            "min_y": 145,
+            "min_z": 5,
+            "max_x": 186,
+            "max_y": 188,
+            "max_z": 16,
+            "area": 7484,
+            "slice": 11
+        }
+    },
+    "case_00201": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 15
+        },
+        "kidney": {
+            "min_x": 49,
+            "min_y": 110,
+            "min_z": 0,
+            "max_x": 212,
+            "max_y": 170,
+            "max_z": 15,
+            "area": 39735,
+            "slice": 15
+        },
+        "tumor": {
+            "min_x": 172,
+            "min_y": 149,
+            "min_z": 5,
+            "max_x": 184,
+            "max_y": 163,
+            "max_z": 10,
+            "area": 296,
+            "slice": 5
+        }
+    },
+    "case_00202": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 50
+        },
+        "kidney": {
+            "min_x": 65,
+            "min_y": 123,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 176,
+            "max_z": 50,
+            "area": 46377,
+            "slice": 45
+        },
+        "tumor": {
+            "min_x": 144,
+            "min_y": 138,
+            "min_z": 5,
+            "max_x": 183,
+            "max_y": 176,
+            "max_z": 45,
+            "area": 25877,
+            "slice": 40
+        }
+    },
+    "case_00203": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 21
+        },
+        "kidney": {
+            "min_x": 73,
+            "min_y": 112,
+            "min_z": 0,
+            "max_x": 213,
+            "max_y": 168,
+            "max_z": 21,
+            "area": 24342,
+            "slice": 21
+        },
+        "tumor": {
+            "min_x": 199,
+            "min_y": 144,
+            "min_z": 5,
+            "max_x": 213,
+            "max_y": 158,
+            "max_z": 16,
+            "area": 1186,
+            "slice": 11
+        }
+    },
+    "case_00204": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 24
+        },
+        "kidney": {
+            "min_x": 55,
+            "min_y": 127,
+            "min_z": 0,
+            "max_x": 203,
+            "max_y": 184,
+            "max_z": 24,
+            "area": 36091,
+            "slice": 24
+        },
+        "tumor": {
+            "min_x": 55,
+            "min_y": 153,
+            "min_z": 5,
+            "max_x": 87,
+            "max_y": 184,
+            "max_z": 19,
+            "area": 6163,
+            "slice": 14
+        }
+    },
+    "case_00205": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 20
+        },
+        "kidney": {
+            "min_x": 68,
+            "min_y": 123,
+            "min_z": 2,
+            "max_x": 188,
+            "max_y": 178,
+            "max_z": 20,
+            "area": 19241,
+            "slice": 18
+        },
+        "tumor": {
+            "min_x": 157,
+            "min_y": 151,
+            "min_z": 5,
+            "max_x": 188,
+            "max_y": 169,
+            "max_z": 15,
+            "area": 933,
+            "slice": 7
+        }
+    },
+    "case_00206": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 18
+        },
+        "kidney": {
+            "min_x": 79,
+            "min_y": 107,
+            "min_z": 0,
+            "max_x": 201,
+            "max_y": 164,
+            "max_z": 17,
+            "area": 19752,
+            "slice": 17
+        },
+        "tumor": {
+            "min_x": 168,
+            "min_y": 107,
+            "min_z": 5,
+            "max_x": 190,
+            "max_y": 130,
+            "max_z": 13,
+            "area": 2094,
+            "slice": 8
+        }
+    },
+    "case_00207": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 12
+        },
+        "kidney": {
+            "min_x": 52,
+            "min_y": 117,
+            "min_z": 0,
+            "max_x": 202,
+            "max_y": 170,
+            "max_z": 12,
+            "area": 21156,
+            "slice": 12
+        },
+        "tumor": {
+            "min_x": 162,
+            "min_y": 154,
+            "min_z": 5,
+            "max_x": 175,
+            "max_y": 170,
+            "max_z": 7,
+            "area": 306,
+            "slice": 2
+        }
+    },
+    "case_00208": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 14
+        },
+        "kidney": {
+            "min_x": 52,
+            "min_y": 137,
+            "min_z": 0,
+            "max_x": 185,
+            "max_y": 183,
+            "max_z": 14,
+            "area": 19495,
+            "slice": 14
+        },
+        "tumor": {
+            "min_x": 150,
+            "min_y": 170,
+            "min_z": 5,
+            "max_x": 161,
+            "max_y": 181,
+            "max_z": 9,
+            "area": 198,
+            "slice": 4
+        }
+    },
+    "case_00209": {
+        "vol": {
+            "total_x": 256,
+            "total_y": 256,
+            "total_z": 13
+        },
+        "kidney": {
+            "min_x": 59,
+            "min_y": 130,
+            "min_z": 0,
+            "max_x": 204,
+            "max_y": 182,
+            "max_z": 13,
+            "area": 18878,
+            "slice": 13
+        },
+        "tumor": {
+            "min_x": 163,
+            "min_y": 143,
+            "min_z": 5,
+            "max_x": 173,
+            "max_y": 153,
+            "max_z": 8,
+            "area": 99,
+            "slice": 3
+        }
+    }
+}
